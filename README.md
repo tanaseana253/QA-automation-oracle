@@ -19,5 +19,7 @@ This project includes automated API tests created using Postman.
 3. Send GET request and assert the created project exists in the response
 
 ### Screenshots
-![Postman API Tests Passed](postman-get-test-passed.jpg)
-![Postman API Tests Passed](postman-post-test-passed.jpg)
+
+![Postman GET tests passed](screenshots/postman-get-test-passed.jpg)
+![Postman POST tests passed](screenshots/postman-post-test-passed.jpg)
+
