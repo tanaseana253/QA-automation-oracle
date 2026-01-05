@@ -18,3 +18,4 @@ logs/
 # VS Code settings (optional)
 .vscode/
 .history/
+**/.history/
